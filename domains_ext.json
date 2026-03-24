@@ -75,7 +75,8 @@
 		"library-service.live.use1a.on.epicgames.com",
 		"datastorage-public-service-liveegs.live.use1a.on.epicgames.com",
 		"store.epicgames.com",
-		"launcher.store.epicgames.com"		
+		"launcher.store.epicgames.com",
+		"authelia.com"
       ],
       "domain_keyword": [
         "whatsapp",
