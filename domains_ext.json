@@ -83,7 +83,16 @@
 		"xpenology.tech",
 		"xpenology.com",
 		"pkgupdate7.synology.com",
-		"cloudfront.net"
+		"cloudfront.net",
+		"payment.synology.com",
+		"account.synology.com",
+		"global.download.synology.com",
+		"download.synology.com",
+		"www.synology.com",
+		"pkgautoupdate7.synology.com",
+		"pkgupdate7.synology.com",
+		"pkgautoupdate.synologyupdate.com",
+		"global.synologydownload.com"
       ],
       "domain_keyword": [
         "whatsapp",
