@@ -92,7 +92,8 @@
 		"pkgautoupdate7.synology.com",
 		"pkgupdate7.synology.com",
 		"pkgautoupdate.synologyupdate.com",
-		"global.synologydownload.com"
+		"global.synologydownload.com",
+		"release-assets.githubusercontent.com"		
       ],
       "domain_keyword": [
         "whatsapp",
