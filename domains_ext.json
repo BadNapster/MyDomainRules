@@ -94,7 +94,11 @@
 		"pkgupdate7.synology.com",
 		"pkgautoupdate.synologyupdate.com",
 		"global.synologydownload.com",
-		"release-assets.githubusercontent.com"		
+		"release-assets.githubusercontent.com",
+				
+		"live.wardogs.bulkhead.pragmaengine.com",
+		"firstlook.gg",
+		"api.epicgames.dev"		
       ],
       "domain_keyword": [
         "whatsapp",
