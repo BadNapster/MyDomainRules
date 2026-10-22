@@ -94,9 +94,10 @@
 		"pkgupdate7.synology.com",
 		"pkgautoupdate.synologyupdate.com",
 		"global.synologydownload.com",
-		"release-assets.githubusercontent.com",
-		"objects.githubusercontent.com",
-		"raw.githubusercontent.com",
+		
+		".githubusercontent.com",
+		"steamdeckhomebrew.com",
+		"amazonaws.com",
 				
 		"live.wardogs.bulkhead.pragmaengine.com",
 		"firstlook.gg",
